@@ -50,7 +50,7 @@ This project is designed to be database-agnostic, with common choices for FastAP
 Follow these steps to get the `Watcher-FAST-API` up and running on your local machine.
 
 ### Prerequisites
--   **Python 3.8+**
+-   **Python 3.0+**
 -   A database server (e.g., PostgreSQL, SQLite, or MongoDB) if you plan to persist data.
 
 ### Installation
